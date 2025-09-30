@@ -1,7 +1,7 @@
 {
-  "name": "battletech-tools",
-  "version": "0.7.0",
-  "homepage": "https://jdgwf.github.io/battletech-tools",
+  "name": "CAVtools",
+  "version": "0.0.1",
+  "homepage": "https://tigerwraith.github.io/cav-tools/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
