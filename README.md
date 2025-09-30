@@ -7,7 +7,7 @@ The purpose of these tools is to have a centralized, accessible set of tools for
 
 ## Development
 
-Currently the in development. 
+Currently in development. 
 
 ### Technology
 
