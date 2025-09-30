@@ -11,7 +11,7 @@ Currently the in development.
 
 ### Technology
 
-This application is a PWA (Progressive Web Application) which allows a user to create Alpha Strike Rosters, Classic BattleTech BattleMechs and eventually more! from any device with access to a modern web browser and should be able to be "pinned" to the home screen of any device including Windows 10 and 11.
+This application is a PWA (Progressive Web Application) which allows a user to create CAV Forces, CAV Units and eventually more! from any device with access to a modern web browser and should be able to be "pinned" to the home screen of any device including Windows 10 and 11.
 
 The tools are powered by HTML, Bootstrap 4, TypeScript, and React. All data and logic are then compiled and handled by npm.
 
